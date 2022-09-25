@@ -1,6 +1,8 @@
+
 {
   "recommendations": [
-    "DavidAnson.vscode-markdownlint",
-    "esbenp.prettier-vscode"
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode",
+    "LittleFoxTeam.vscode-python-test-adapter"
   ]
 }
